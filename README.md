@@ -69,32 +69,6 @@ With 7+ years of experience, I focus on backend engineering, system architecture
 
 ---
 
-## 🚀 What I Build
-
-**AI & Intelligent Systems**  
-RAG pipelines, LLM applications, semantic search, forecasting, and AI-assisted systems.
-
-**IoT & Real-Time Platforms**  
-Real-time monitoring, environmental data, WebSocket/MQTT pipelines, and analytics dashboards.
-
-**Enterprise Applications**  
-Scalable web applications, REST APIs, microservices, dashboards, and system integrations.
-
----
-
-## 📌 Featured Projects
-
-🌊 **IoT Analytics & Early Warning System**  
-Real-time environmental monitoring platform for water level, rainfall, weather, and other sensor data.
-
-🤖 **AI / RAG Platform**  
-AI assistant combining vector search, reranking, LLM inference, and real-time data context.
-
-📊 **Government Command Center**  
-Interactive command center and monitoring systems with geospatial visualization.
-
----
-
 ## 📫 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sofiandamha.vercel.app)
